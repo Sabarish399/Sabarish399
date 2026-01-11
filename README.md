@@ -21,8 +21,9 @@ Focused on data structures and algorithms with an emphasis on correctness, effic
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=red)](https://leetcode.com/u/sabarish-kumar)
 
-
+<div align=center>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sabarish-kumar?theme=dark&font=Source%20Sans%20Pro&ext=heatmap)
+</div>
 
 ---
 
